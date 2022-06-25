@@ -27,7 +27,7 @@ A Lioranboard 2 extension that allows advanced remote control of the foobar2000 
 
 ## Download
 
-The download is located in my [Ko-Fi Shop](https://ko-fi.com/landie/shop)!
+The download is located in my [Ko-Fi Shop](https://ko-fi.com/s/c923ebaadc)!
 
 ## How do i get started? 
 
